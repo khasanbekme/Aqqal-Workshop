@@ -34,7 +34,7 @@ Welcome to the Flowise Agent setup guide. Follow these steps to set up your agen
 
 5. **Create a Telegram Bot**:
 
-    - Open Telegram and search for `@BotFather`.
+    - Open Telegram and search for [`@BotFather`](https://t.me/BotFather).
     - Follow the prompts to create a new bot. You will receive a `BOT_TOKEN`.
 
 6. **Update Python Code**:
@@ -43,5 +43,5 @@ Welcome to the Flowise Agent setup guide. Follow these steps to set up your agen
 
 7. **Run the Python Code**:
     - Execute the Python code.
-    - If the Telegram bot responds with "CONGRATULATIONS!!!", the setup is successful.
+    - If the Telegram bot responds "CONGRATULATIONS!!!", the setup is successful.
     - If you encounter issues, revisit Step 1 and ensure all steps were followed correctly.
